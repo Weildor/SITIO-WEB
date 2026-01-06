@@ -1,0 +1,17 @@
+body {
+    background-color: blueviolet;
+}
+title {
+    font-family: 'Courier New', Courier, monospace;
+    font-display: initial;
+    color: brown;
+    text-align: center;
+
+}
+p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-display: initial;
+    color: aliceblue;
+    text-align: center;
+
+}
