@@ -94,5 +94,49 @@ border-radius: 10px;
     background-color: black;
 }
 .redes{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     
+    
+}
+.targetitas{
+    border-radius: 20px 20px 20px 20px;
+    background-color: red;
+    height: 350px;
+    width: 100%;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+    
+}
+#Dvs{
+    background-color: bisque;
+    height: 400px;
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    border-radius: 20px 0px 20px 0px;
+}
+.img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%; /* Opcional: para controlar el tamaño */
+    padding: 20px;
+}
+#piecit{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 20%;
+    
+}
+#piecito{
+    background-color: white;
+    font-family: 'Courier New', Courier, monospace;
 }
